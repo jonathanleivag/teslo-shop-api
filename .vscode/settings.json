@@ -1,0 +1,33 @@
+{
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "numso.prettier-standard-vscode",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "numso.prettier-standard-vscode",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "numso.prettier-standard-vscode",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "numso.prettier-standard-vscode",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+  },
+  "[css]": {
+    "editor.defaultFormatter": "numso.prettier-standard-vscode",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+  },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescriptreact",
+    "typescript"
+  ],
+}

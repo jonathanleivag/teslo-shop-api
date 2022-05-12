@@ -1,0 +1,49 @@
+{
+  "name": "teslo-shop-api",
+  "version": "1.0.0",
+  "description": "Api de teslo-shop",
+  "main": "index.ts",
+  "author": "Jonathanleivag",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon",
+    "build": "tsc -p .",
+    "start": "node ./dist/index.js"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.2",
+    "@types/cookie-parser": "^1.4.2",
+    "@types/formidable": "^2.0.4",
+    "@types/jsonwebtoken": "^8.5.8",
+    "@types/lodash": "^4.14.180",
+    "@types/morgan": "^1.9.3",
+    "@typescript-eslint/eslint-plugin": "^5.16.0",
+    "@typescript-eslint/parser": "^5.16.0",
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.2.0",
+    "nodemon": "^2.0.15",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "apollo-server-core": "^3.6.6",
+    "apollo-server-express": "^3.6.6",
+    "axios": "^0.26.1",
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^1.29.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "formidable": "^2.0.1",
+    "graphql": "^16.3.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.2.8",
+    "morgan": "^1.10.0",
+    "yup": "^0.32.11"
+  }
+}

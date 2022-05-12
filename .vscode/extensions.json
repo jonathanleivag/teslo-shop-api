@@ -1,0 +1,16 @@
+{
+  "recommendations": [
+    "xabikos.JavaScriptSnippets",
+    "numso.prettier-standard-vscode",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "aaron-bond.better-comments",
+    "IronGeek.vscode-env",
+    "usernamehw.errorlens",
+    "bradlc.vscode-tailwindcss",
+    "Gruntfuggly.todo-tree",
+    "pmneo.tsimporter",
+    "quicktype.quicktype",
+    "apollographql.vscode-apollo",
+    "normanstypczynskipublisher.gqlformatter"
+  ]
+}
